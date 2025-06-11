@@ -1,9 +1,7 @@
-<h1 align="center">Olá! Eu sou o [Seu Nome] 👋</h1>
+<h1 align="center"> "< João H Kozer />" 👋</h1>
 
 <p align="center">
-  🚀 Desenvolvedor em constante aprendizado<br>
-  💡 Apaixonado por tecnologia, código limpo e soluções criativas<br>
-  🎓 Estudante de Desenvolvimento Mobile e Web
+   Desenvolvedor em constante aprendizado<br>
 </p>
 
 ---
@@ -22,49 +20,17 @@
 
 ---
 
-## 📊 Nível de Conhecimento
-
-| Linguagem  | Nível        |
-|------------|--------------|
-| HTML       | ⭐⭐⭐⭐☆       |
-| CSS        | ⭐⭐⭐☆        |
-| JavaScript | ⭐⭐⭐⭐☆       |
-
-<sub>⭐ = Iniciante • ⭐⭐ = Básico • ⭐⭐⭐ = Intermediário • ⭐⭐⭐⭐ = Avançado • ⭐⭐⭐⭐⭐ = Expert</sub>
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
-## 📱 Em andamento
-
-🎯 Atualmente estou criando um app para o **Dia dos Namorados**, onde minha esposa pode:
-- Tirar uma foto por dia
-- Completar uma semana de check-ins
-- Ganhar um mimo como recompensa 💝
-
----
-
 ## 📚 Formação e Cursos
 
 - ✔️ Concluí os **3 cursos de Python (120h)** – [Curso em Vídeo](https://www.cursoemvideo.com)
-- 📱 Estudando desenvolvimento mobile com **React Native**
+- 📱 Estudando desenvolvimento com **Curso de JS e TS do Básico ao Avançado**
+- 💻  Cursando Desenvolvimento de sistemas mas sendo autoDitada
 - 💡 Sempre estudando novas stacks e práticas de desenvolvimento
 
 ---
 
-## 📫 Fale comigo!
+## 📫 Talk to me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-henrique-lamp-kozer-11197b335)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
----
-
-⭐ Obrigado por visitar meu perfil! Vamos codar juntos? 🚀
