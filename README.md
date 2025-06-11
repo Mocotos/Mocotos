@@ -23,8 +23,8 @@
 ## 📚 Formação e Cursos
 
 - ✔️ Concluí os **3 cursos de Python (120h)** – [Curso em Vídeo](https://www.cursoemvideo.com)
-- 📱 Estudando desenvolvimento com **Curso de JS e TS do Básico ao Avançado**
-- 💻  Cursando Desenvolvimento de sistemas mas sendo autoDitada
+- 📱 Desenvolvimento com **Curso de JS e TS do Básico ao Avançado**[Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado)
+- 💻 Cursando Desenvolvimento de sistemas mas sendo autoDitada
 - 💡 Sempre estudando novas stacks e práticas de desenvolvimento
 
 ---
