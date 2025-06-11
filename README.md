@@ -1,7 +1,7 @@
-<h1 align="center"> "< João H Kozer />" 👋</h1>
+<h1 align="center"> < João H Kozer /> </h1>
 
 <p align="center">
-   Desenvolvedor em constante aprendizado<br>
+   Desenvolvedor em constante aprendizado em busca do FullStack <br>
 </p>
 
 ---
